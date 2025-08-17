@@ -1,0 +1,6 @@
+@SZ.DescontoReal.Site_HostAddress = http://localhost:5157
+
+GET {{SZ.DescontoReal.Site_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
