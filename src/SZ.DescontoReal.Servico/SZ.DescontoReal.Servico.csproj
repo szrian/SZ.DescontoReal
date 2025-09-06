@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Modulos\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SZ.DescontoReal.Site\SZ.DescontoReal.Site.csproj" />
+  </ItemGroup>
+
 </Project>
